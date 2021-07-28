@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dcu141
-- 👀 I’m interested in networking with software engineers who have good understanding of things like large, scalable web applications along with distributed, asynchronous, or real-time systems. 
+- 👀 I’m interested in networking with software engineers who like making their mark on the world by developing large, scalable web applications along with distributed, asynchronous, or real-time systems. 
 - 📫 How to reach me: dcurtis3@wayfair.com
 
 
